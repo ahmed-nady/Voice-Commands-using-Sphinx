@@ -1,0 +1,10 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar hello;
+
+public <command> = (Zoom In| Zoom Out|Translate|Translate Right|Translate Up|Translate Down|Rotate|Rotate Right|Rotate Up|Rotate Down);
+ 
